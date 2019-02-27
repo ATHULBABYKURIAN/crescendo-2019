@@ -1196,7 +1196,7 @@ input::-moz-focus-inner {
   line-height: 1.833;
 }
 .section-intro.with-bottom-sep {
-  padding-bottom: 4.2rem;
+  padding-bottom: 2.1rem;
   position: relative;
 }
 .section-intro.with-bottom-sep::after {
@@ -1946,9 +1946,9 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  min-height: 800px;
+  min-height: 600px;
   position: relative;
-  padding: 15rem 0 15rem;
+  padding: 1rem 0 1rem;
   color: rgba(255, 255, 255, 0.3);
 }
 #services .overlay {
@@ -2038,7 +2038,7 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
 }
 @media only screen and (max-width: 768px) {
   #services {
-    padding: 12rem 0 12rem;
+    padding: 2rem 0 2rem;
   }
   #services .services-content {
     max-width: 550px;
@@ -2075,7 +2075,7 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
   padding: 0;
 }
 #portfolio .intro-wrap {
-  padding: 15rem 0 21rem;
+  padding: 2rem 0 5rem;
   background: #111111;
 }
 #portfolio .section-intro h3 {
@@ -2314,7 +2314,7 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   #portfolio .intro-wrap {
-    padding: 12rem 0 21rem;
+    padding: 5rem 0 5rem;
   }
 }
 @media only screen and (max-width: 600px) {
