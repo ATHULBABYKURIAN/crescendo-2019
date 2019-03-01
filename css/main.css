@@ -1997,7 +1997,7 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
   max-width: 1040px;
 }
 #services .services-list {
-  margin-top: 1.2rem;
+  margin-top: 1.2rem auto;
   text-align: center;
 }
 #services .services-list .service-item {
